@@ -20,7 +20,7 @@ GDG on Campus NCU｜2026/10/08
 
 填寫姓名、確認 Gmail，點選 **ACCEPT AND CONTINUE**，確認出現 **Credit successfully applied**
 
-![填寫資料與 Credits 領取成功畫面](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/02_credits_confirm.png)
+![填寫資料與 Credits 領取成功畫面](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/02_credits_confirm.png)
 
 ## 2. 建立專案並綁定 Credits
 
@@ -28,37 +28,37 @@ GDG on Campus NCU｜2026/10/08
 
 進入 [Google Cloud Console](https://console.cloud.google.com/)，點選左上角 **選取專案**
 
-![Google Cloud 選取專案入口](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/03_project_menu.png)
+![Google Cloud 選取專案入口](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/03_project_menu.png)
 
 ### 新增專案
 
 點選右上角 **新增專案**
 
-![新增專案入口](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/04_project_new.png)
+![新增專案入口](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/04_project_new.png)
 
 ### 輸入名稱
 
 輸入英文專案名稱，例如 `Agentic-AI`，點選 **建立**
 
-![輸入專案名稱並建立](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/05_project_name.png)
+![輸入專案名稱並建立](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/05_project_name.png)
 
 ### 切換到新專案
 
 等待建立完成，在通知中點選 **選取專案**
 
-![專案建立完成通知](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/06_project_select.png)
+![專案建立完成通知](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/06_project_select.png)
 
 ### 開啟帳單
 
 展開左上角選單，點選 **帳單**
 
-![Google Cloud 帳單入口](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/07_billing_menu.png)
+![Google Cloud 帳單入口](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/07_billing_menu.png)
 
 ### 連結帳單帳戶
 
 點選 **連結帳單帳戶**
 
-![連結帳單帳戶入口](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/08_billing_link.png)
+![連結帳單帳戶入口](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/08_billing_link.png)
 
 ### 選擇活動帳戶
 
@@ -66,19 +66,19 @@ GDG on Campus NCU｜2026/10/08
 
 若尚未出現，重新整理並等待約 30 秒，再確認登入帳號
 
-![選擇帳單帳戶](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/09_billing_choose.png)
+![選擇帳單帳戶](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/09_billing_choose.png)
 
 ### 完成綁定
 
 確認帳戶後，點選 **Set account**
 
-![設定專案帳單帳戶](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/10_billing_set.png)
+![設定專案帳單帳戶](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/10_billing_set.png)
 
 ### 確認 Credits
 
 在帳單頁左側點選 **Credits**，確認活動額度、剩餘額度與適用範圍
 
-![查看帳單帳戶 Credits](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/11_credits_check.png)
+![查看帳單帳戶 Credits](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/11_credits_check.png)
 
 ## 3. 進入 AI Studio Build Mode
 
@@ -88,7 +88,7 @@ GDG on Campus NCU｜2026/10/08
 
 右上角齒輪可開啟設定
 
-![AI Studio Build Mode 與設定入口](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/12_build_home.png)
+![AI Studio Build Mode 與設定入口](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/12_build_home.png)
 
 ### 設定模型與偏好
 
@@ -97,7 +97,7 @@ GDG on Campus NCU｜2026/10/08
 - **Custom instructions**：設定語氣、介面語言與開發偏好
 - **Usage**：查看目前用量，課堂先使用帳號可用的免費建置額度
 
-![AI Studio 模型、框架、指令與用量設定](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/13_build_settings.png)
+![AI Studio 模型、框架、指令與用量設定](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/13_build_settings.png)
 
 > 模型名稱與選項以你的畫面及講師指示為準  
 > 若建置時要求切換 **pay per request** 或儲值，先取消並請講師確認；本課將活動專案用於後面的 Cloud Run 部署
@@ -182,7 +182,7 @@ Cloud Run 以容器（container）運行程式，提供自動擴縮（autoscalin
 
 在 AI Studio 應用程式右上角點 **Publish**
 
-![AI Studio 右上角的 Publish 按鈕](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/20_cloud_run_publish.png)
+![AI Studio 右上角的 Publish 按鈕](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/20_cloud_run_publish.png)
 
 > 以下操作圖片取自 Google Codelabs 官方範例，作品名稱與本課不同，按鈕以實際介面為準
 
@@ -211,7 +211,7 @@ Cloud Run 以容器（container）運行程式，提供自動擴縮（autoscalin
 4. 等待部署完成；AI Studio 會建立對應的 Cloud Run 服務（service）
 5. 看到 **Status = Ready** 後，點 **Visit／App URL** 開啟網站
 
-![Cloud Run 部署完成，顯示 Ready 與 App URL](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/21_cloud_run_published.png)
+![Cloud Run 部署完成，顯示 Ready 與 App URL](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/21_cloud_run_published.png)
 
 > 圖中的 Gemini API 欄位屬於官方範例，本課作品集不需要額外接入 Gemini API  
 > 若你自行加入模型功能，須另行確認該 API 專案、模型配額及費用
@@ -260,7 +260,7 @@ Credits 是符合條件費用的抵扣額度，請依活動規定安排課後保
 
 若課後暫時不需要網站上線，在 AI Studio 開啟 **Publish → Unpublish app**，依畫面確認
 
-![Unpublish app 取消發布入口](https://raw.githubusercontent.com/sukaito94/agentic-ai-risk-governance/main/workshops/build-with-ai-2026-10-08/images/22_cloud_run_unpublish.png)
+![Unpublish app 取消發布入口](https://raw.githubusercontent.com/sukaito94/build-with-ai-hackmd/main/images/22_cloud_run_unpublish.png)
 
 需要保留成果時，先匯出程式與重要資料  
 取消發布後，再到 Cloud Console 檢查本次建立的 Cloud Run 與其他資源；Firestore、儲存空間及建置產物的清理需分別確認
